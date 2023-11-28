@@ -8,6 +8,7 @@ Aqui estão as tecnologias que utilizei no projeto:
 
 * HTML
 * CSS
+* SCSS
 
 ## Autor
 
